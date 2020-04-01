@@ -1,0 +1,85 @@
+body {
+    margin: 0 10%;
+    padding: 0;
+}
+
+div {
+    box-sizing: border-box;
+}
+
+.header {
+    display: block;
+    margin: 2% 0;
+    padding-bottom: 50px;
+}
+
+li:nth-child(2) {
+    margin-left: 50%;
+}
+
+li {
+    display: block;
+    float: left;
+    margin-right: 3%;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.number {
+    float: right;
+    margin-right: 0;
+}
+
+.logo {
+    margin-left: 0;
+    font-weight: bold;
+    font-size: 40px;
+    color: red !important;
+}
+
+
+.container {
+    text-align: center;
+}
+
+.line {
+    width: 100px;
+    background-color: red;
+    height: 2px;
+    float: left;
+    margin-right: 90%;
+    margin-bottom: 20px;
+}
+
+footer .buttons {
+    float: right;
+    margin-top: -1%;
+}
+
+h4{
+    margin: 0;
+}
+
+img {
+    width: 300px;
+    height: 200px;
+}
+
+.card-item {
+    width: 20%;
+    display: inline-block;
+    margin: 5%;
+    vertical-align: top;
+}
+
+.card-item-text {
+    text-align: left;
+    height: 200px;
+}
+
+h2 {
+    margin-bottom: 0;
+}
